@@ -6,7 +6,8 @@ The game focuses on teamwork, strategy, and fast-paced action as players work to
 ## View Us
 - View on Roblox: https://www.roblox.com/th/games/127846117335184/Players-vs-Machines
 - View on Youtube: https://www.youtube.com/@players_vs_machine
-- View On Github: https://github.com/yellowgreenred-official/players_vs_machines/
+- View on Github: https://github.com/yellowgreenred-official/players_vs_machines/
+- View on Discord: https://discord.gg/u6na6HTYs9
 
 
 # Players Vs Machines Source Code
