@@ -1,8 +1,8 @@
 # Players VsMachines
 
-View on Roblox: https://www.roblox.com/th/games/127846117335184/Players-vs-Machines
-View on Youtube: https://www.youtube.com/@players_vs_machine
-View On Github: https://github.com/yellowgreenred-official/players_vs_machines/
+-View on Roblox: https://www.roblox.com/th/games/127846117335184/Players-vs-Machines
+-View on Youtube: https://www.youtube.com/@players_vs_machine
+-View On Github: https://github.com/yellowgreenred-official/players_vs_machines/
 
 
 # Players Vs Machines Source Code
